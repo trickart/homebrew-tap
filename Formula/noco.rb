@@ -1,4 +1,4 @@
-class Tpsim < Formula
+class Noco < Formula
   desc "A Node.js-compatible JavaScript runtime"
   homepage "https://github.com/trickart/tpsim"
   url "https://github.com/trickart/NoCo/releases/download/0.0.2/noco.artifactbundle.zip"
