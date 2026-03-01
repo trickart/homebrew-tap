@@ -6,7 +6,7 @@ class Noco < Formula
   license "MIT"
 
   def install
-    bin.install "noco/bin/noco" if OS.mac?
+    bin.install "noco-macos/bin/noco" if OS.mac?
   end
 
   test do
