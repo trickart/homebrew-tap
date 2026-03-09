@@ -1,8 +1,8 @@
 class Xmsnap < Formula
   desc "CLI tool that captures preview snapshots via Xcode's MCP server"
   homepage "https://github.com/trickart/XcodeMCPSnapshooter"
-  url "https://github.com/trickart/XcodeMCPSnapshooter/releases/download/0.0.3/xmsnap.artifactbundle.zip"
-  sha256 "0f55e39a00e0692da02583dacf98215ad9156ece8fd9aa018d5cde21623284aa"
+  url "https://github.com/trickart/XcodeMCPSnapshooter/releases/download/0.0.4/xmsnap.artifactbundle.zip"
+  sha256 "80705d85b84e1e0ad2c39646b0cf84ac6c937910272f5936777648df8b36218d"
   license "MIT"
 
   def install
