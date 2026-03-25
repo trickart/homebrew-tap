@@ -1,8 +1,8 @@
 class Noco < Formula
   desc "Node.js-compatible JavaScript runtime"
   homepage "https://github.com/trickart/tpsim"
-  url "https://github.com/trickart/NoCo/releases/download/0.0.5/noco.artifactbundle.zip"
-  sha256 "6bd162a47da43352e92d5e701864bd0fba7aa172e5e16ceee0e37fe9d6f5430a"
+  url "https://github.com/trickart/NoCo/releases/download/0.0.7/noco.artifactbundle.zip"
+  sha256 "c940acd927fb21494b440f8a38c4e57989c8ee23e8b3f5c4a41cc7dfab90b7b9"
   license "MIT"
 
   def install
