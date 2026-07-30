@@ -1,8 +1,8 @@
 class Tpsim < Formula
   desc "ESC/POS thermal printer simulator"
   homepage "https://github.com/trickart/tpsim"
-  url "https://github.com/trickart/tpsim/releases/download/0.0.2/tpsim.artifactbundle.zip"
-  sha256 "e124a8504f330bf2f49aa970c01d700035a6868bd016fa05dbc46958c5da2a91"
+  url "https://github.com/trickart/tpsim/releases/download/0.1.0/tpsim.artifactbundle.zip"
+  sha256 "210ad69757f9a71cbb2c2f33236f65314cd77f997a191ff3f1fd98951238c42a"
   license "MIT"
 
   def install
